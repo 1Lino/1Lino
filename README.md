@@ -9,7 +9,7 @@ Sou desenvolvedor de software com foco no ecossistema .NET, explorando diferente
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-5d9cff?style=for-the-badge&logo=csharp&logoColor=white)
 ![.Python](https://img.shields.io/badge/.Python-edff5d?style=for-the-badge&logo=python&logoColor=green)
-![.JavaScript](https://img.shields.io/badge/.JavaScript-edff5d?style=for-the-badge&logo=javascript&logoColor=white)
+![.JavaScript](https://img.shields.io/badge/.JavaScript-white?style=for-the-badge&logo=javascript&logoColor=edff5d)
 ![.TypeScript](https://img.shields.io/badge/.TypeScript-white?style=for-the-badge&logo=typescript&logoColor=5d88ff)
 
 ### Frontend
