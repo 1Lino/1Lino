@@ -8,7 +8,7 @@ Sou desenvolvedor de software com foco no ecossistema .NET, explorando diferente
 
 ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 * C#
-* Python 
+![.Python](https://img.shields.io/badge/.Python-512BD4?style=for-the-badge&logo=python&logoColor=green)
 * JavaScript
 * TypeScript
 
@@ -38,4 +38,4 @@ Sou desenvolvedor de software com foco no ecossistema .NET, explorando diferente
 * Banco de dados e persistência de dados.
 * Aprendizado contínuo de novas tecnologias.
 
-Obrigado pela visita ao meu perfil! 
+Obrigado pela visita ao meu perfil! :thumbsup:
