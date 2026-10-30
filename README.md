@@ -6,7 +6,7 @@ Sou desenvolvedor de software com foco no ecossistema .NET, explorando diferente
 
 ### Backend
 
-* .NET ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
+* ![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
 * C#
 * Python 
 * JavaScript
