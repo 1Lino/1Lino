@@ -1,8 +1,8 @@
-## Olá!
+## Welcome!
 
-Sou desenvolvedor de software com foco no ecossistema .NET, explorando diferentes tecnologias para o desenvolvimento de aplicações, APIs e soluções multiplataforma.
+I am a software developer focused on the .NET ecosystem, exploring different technologies for developing applications, APIs, and cross-platform solutions.
 
-## Tecnologias e ferramentas
+## Technologies and tools
 
 ### Backend
 
@@ -19,23 +19,23 @@ Sou desenvolvedor de software com foco no ecossistema .NET, explorando diferente
 ![.CSS](https://img.shields.io/badge/.CSS-blue?style=for-the-badge&logo=css&logoColor=white)
 ![.HTML5](https://img.shields.io/badge/.HTML-ffe8d8?style=for-the-badge&logo=html5&logoColor=ff8228)
 
-### Desenvolvimento multiplataforma
+### Multiplatform development
 
 ![.SQLite](https://img.shields.io/badge/.Avaloniaui-blue?style=for-the-badge&logo=avaloniaui&logoColor=white)
 ![.SQLite](https://img.shields.io/badge/.Flutter-blue?style=for-the-badge&logo=flutter&logoColor=white)
 
-### Bancos de dados
+### Databases
 * <img src="https://cdn.jsdelivr.net/gh/homarr-labs/dashboard-icons/svg/microsoft-sql-server-light.svg" width="50" height="50">
 
 * ![.PostgreSQL](https://img.shields.io/badge/.postgresql-blue?style=for-the-badge&logo=postgresql&logoColor=white)
 * ![.SQLite](https://img.shields.io/badge/.sqlite-white?style=for-the-badge&logo=sqlite&logoColor=5b87ff)
 
-## Interesses
+## Interests
 
-* Desenvolvimento de aplicações e APIs.
-* Arquitetura e boas práticas de software.
-* Desenvolvimento multiplataforma.
-* Banco de dados e persistência de dados.
-* Aprendizado contínuo de novas tecnologias.
+* Application and API development.
+* Software architecture and best practices.
+* Cross-platform development.
+* Databases and data persistence.
+* Continuous learning of new technologies.
 
-Obrigado pela visita ao meu perfil! :thumbsup:
+Thank you for visiting my profile :thumbsup:
